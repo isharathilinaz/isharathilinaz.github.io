@@ -1,7 +1,0 @@
-<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="77,5,200,32"/>
-<area shape="rect" id="node2" href="$classcom_1_1zebra_1_1ai_1_1vision_1_1usecase_1_1tracking_1_1camerax_1_1EntityTrackerAnalyzer.html" title="Implements an entity tracking system using CameraX analysis capabilities." alt="" coords="333,46,661,87"/>
-<area shape="rect" id="node3" title=" " alt="" coords="99,56,178,83"/>
-<area shape="rect" id="node4" href="$interfacecom_1_1zebra_1_1ai_1_1vision_1_1usecase_1_1tracking_1_1EntityProducer.html" title="Interface for producing entities within a tracking session." alt="" coords="5,109,272,150"/>
-<area shape="rect" id="node5" href="$classcom_1_1zebra_1_1ai_1_1vision_1_1usecase_1_1tracking_1_1framesource_1_1EntityTracker.html" title="Implements an entity tracking system using a frame source." alt="" coords="320,111,673,153"/>
-</map>

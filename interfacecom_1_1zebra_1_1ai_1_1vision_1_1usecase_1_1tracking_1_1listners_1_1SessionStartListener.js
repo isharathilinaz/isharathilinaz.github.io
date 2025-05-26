@@ -1,4 +1,0 @@
-var interfacecom_1_1zebra_1_1ai_1_1vision_1_1usecase_1_1tracking_1_1listners_1_1SessionStartListener =
-[
-    [ "onSessionStart", "interfacecom_1_1zebra_1_1ai_1_1vision_1_1usecase_1_1tracking_1_1listners_1_1SessionStartListener.html#a2e15f0d30555265362b9302169ede201", null ]
-];

@@ -1,4 +1,0 @@
-<map id="com.zebra.ai.vision.usecase.tracking.framesource.EntityTracker" name="com.zebra.ai.vision.usecase.tracking.framesource.EntityTracker">
-<area shape="rect" id="node1" title="Implements an entity tracking system using a frame source." alt="" coords="5,95,359,136"/>
-<area shape="rect" id="node2" href="$interfacecom_1_1zebra_1_1ai_1_1vision_1_1usecase_1_1tracking_1_1EntityProducer.html" title="Interface for producing entities within a tracking session." alt="" coords="49,5,315,47"/>
-</map>

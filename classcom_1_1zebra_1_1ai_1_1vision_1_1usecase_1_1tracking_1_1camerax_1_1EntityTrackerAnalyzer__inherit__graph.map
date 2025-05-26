@@ -1,6 +1,0 @@
-<map id="com.zebra.ai.vision.usecase.tracking.camerax.EntityTrackerAnalyzer" name="com.zebra.ai.vision.usecase.tracking.camerax.EntityTrackerAnalyzer">
-<area shape="rect" id="node1" title="Implements an entity tracking system using CameraX analysis capabilities." alt="" coords="320,64,648,105"/>
-<area shape="rect" id="node2" href="$interfacecom_1_1zebra_1_1ai_1_1vision_1_1usecase_1_1tracking_1_1EntityProducer.html" title="Interface for producing entities within a tracking session." alt="" coords="5,5,272,47"/>
-<area shape="rect" id="node3" title=" " alt="" coords="47,71,230,98"/>
-<area shape="rect" id="node4" title=" " alt="" coords="77,122,200,149"/>
-</map>

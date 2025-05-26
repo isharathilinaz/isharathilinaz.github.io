@@ -1,4 +1,0 @@
-<map id="com.zebra.ai.vision.usecase.tracking.framesource.Settings.setSymbologyParametersForTracker" name="com.zebra.ai.vision.usecase.tracking.framesource.Settings.setSymbologyParametersForTracker">
-<area shape="rect" id="node1" title="Sets symbology parameters for the tracker." alt="" coords="5,5,359,47"/>
-<area shape="rect" id="node2" href="$classcom_1_1zebra_1_1ai_1_1vision_1_1symbology_1_1SymbologySettings.html#a5d06ad3d7eee80bb3ea71800c6d9dc38" title="Retrieves the current symbology parameters." alt="" coords="407,5,653,47"/>
-</map>
